@@ -23,6 +23,9 @@ Below is a detailed overview of each notebook present in this repository:
  
 - **6_langgraph_self_rag.ipynb**
   - _RAG that has self-reflection / self-grading on retrieved documents and generations._
+    
+- **7_langgraph_agentic_rag.ipynb**
+  - _RAG that has agentic Flow on retrieved documents and generations._
 
 ## Visual Flows
 
@@ -40,5 +43,9 @@ Get to grips with the Multi Query Retriever structure, which enhances the retrie
 
 ### 4. Self-Reflection-RAG
 ![self-Rag](https://github.com/NisaarAgharia/Advanced_RAG/assets/22457544/2e58751b-c986-4137-8f85-9294301c3f79)
+
+### 5. Agentic RAG
+![download](https://github.com/NisaarAgharia/Advanced_RAG/assets/22457544/4258e17e-7dfa-48da-a5b5-753b3de5d1bc)
+
 
 Enhance your LLMs with the powerful combination of RAG and Langchain for more informed and accurate natural language generation.
