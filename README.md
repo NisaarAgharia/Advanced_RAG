@@ -19,8 +19,11 @@ Get to grips with the Multi Query Retriever structure, which enhances the retrie
 ### 07. Agentic RAG :
 ![download](https://github.com/NisaarAgharia/Advanced_RAG/assets/22457544/4258e17e-7dfa-48da-a5b5-753b3de5d1bc)
 
-## Notebooks Overview
+### 08. Adaptive Agentic RAG :
+![adaptive_rag_agent](https://github.com/NisaarAgharia/Advanced_RAG/assets/22457544/283a734d-bd00-4431-8982-fc5e6ce8f15c)
 
+
+## Notebooks Overview
 Below is a detailed overview of each notebook present in this repository:
 
 - **01_Introduction_To_RAG.ipynb**
