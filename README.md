@@ -46,6 +46,9 @@ Below is a detailed overview of each notebook present in this repository:
     
 - **07_Agentic_Rag.ipynb**
   - _RAG that has agentic Flow on retrieved documents and generations._
+  - 
+- **08_Adaptive_Agentic_Rag.ipynb**
+  - _RAG that has agentic Flow on retrieved documents and generations._
 
 
 Enhance your LLMs with the powerful combination of RAG and Langchain for more informed and accurate natural language generation.
