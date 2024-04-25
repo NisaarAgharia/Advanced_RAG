@@ -46,5 +46,8 @@ Below is a detailed overview of each notebook present in this repository:
   - _RAG that has adaptive agentic Flow._
 - **09_Corrective_Agentic_Rag.ipynb**
   - _RAG that has corrective agentic Flow on retrieved documents and generations._
+- **10_LLAMA_3_Rag_Agent_Local.ipynb**
+  - _LLAMA 3 8B Agent Rag that works Locally._
+
 
 Enhance your LLMs with the powerful combination of RAG and Langchain for more informed and accurate natural language generation.
