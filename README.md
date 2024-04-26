@@ -25,6 +25,9 @@ Get to grips with the Multi Query Retriever structure, which enhances the retrie
 ### 09. Corrective Agentic RAG :
 ![correctiveRAG](https://github.com/NisaarAgharia/Advanced_RAG/assets/22457544/68968fa8-0b0e-46ca-a80e-b30645b1e31b)
 
+### 10. LLAMA 3 Agentic RAG Local:
+![LLAMA3_AGent](https://github.com/NisaarAgharia/Advanced_RAG/assets/22457544/a9408eea-814f-416e-a8f6-aec361410719)
+
 ## Notebooks Overview
 Below is a detailed overview of each notebook present in this repository:
 
